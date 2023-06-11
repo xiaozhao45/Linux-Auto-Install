@@ -1,5 +1,5 @@
 # Linux-Auto-Install
-自己写的pythonGUI程序，用来管理软件包，目前没法打包成Linux可执行文件和deb包
+自己写的pythonGUI程序，用来管理软件包，写的答辩，不喜勿喷。目前没法打包成Linux可执行文件和deb包
 需要安装python3、PyQt5。命令：
   pip install PyQt5
   sudo apt-get install python3
